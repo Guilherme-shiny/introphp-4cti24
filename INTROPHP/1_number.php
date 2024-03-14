@@ -8,5 +8,5 @@
 
 echo "Ola me chamo" . $nome . "e tenho" . $idade . "anos";
 
-echo "Estudo:" . $estuda . " salário" . $salario
+echo 'Estudo:' . $estuda . '' salário' . $salario;
 ?>
